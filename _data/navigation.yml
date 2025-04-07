@@ -37,6 +37,8 @@ conference-nav:
           url: /conferences/dha2021/
         - title: "DHA2018"
           url: /conferences/dha2018/
+        - title: "DHA2025"
+          url: /conferences/dha2025/
 
 posts-nav:
     - title: aaDH news
