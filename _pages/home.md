@@ -19,3 +19,7 @@ The Australasian Association for Digital Humanities Inc (aaDH) was formed in Mar
 This professional association acts to support and extend links between digital humanities researchers, improve professional development opportunities, and provide international leverage for local projects and initiatives. The aaDH organises the [Digital Humanities Australasia conference](/conferences/) every two years and provides other opportunities for fostering an understanding of digital technologies in the humanities.
 
 We invite you to join our community by [becoming an aaDH member](/join/).
+
+## Acknowledgement of Country
+
+*We acknowledge the Traditional Owners and Custodians of the lands and waters on which we live, work and play.*

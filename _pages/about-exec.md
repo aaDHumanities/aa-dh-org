@@ -16,6 +16,7 @@ The Executive Committee is elected by a vote of aaDH members.
 - Alexander Ritchie, University of Otago (2022-25)
 - Professor Shawn Ross, Macquarie University (2021-24)
 - Dr Michael Falk, University of Melbourne (2024-2025)
+- Dr Alex Shermon, University of Melbroune (2025-2026)
 
 ## Previous Committee members
 
