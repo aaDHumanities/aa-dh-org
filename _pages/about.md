@@ -14,4 +14,6 @@ aaDH is a meeting place, a forum for discussing the latest work in the field, an
 
 We invite you to join our community by [becoming a member](/join/) of the association. In doing so, you will become part of a large community of digital humanities scholars and practitioners across Australasia, the Pacific and internationally. As well as having the option to receive *Digital Scholarship in the Humanities*, members of aaDH support a range of initiatives including hosting of conferences and events, financial support for student and early career bursaries, publications in the digital humanities, training and network building.
 
-Download the [Rules of the Association](/assets/documents/aaDH_rules.pdf)
+The Australasian Association for Digital Humanities (A0057485X) is an incorporated association under the Associations Incorporation Reform Act 2012 in Victoria, Australia
+
+Download the [Rules of the Association](/assets/documents/Updated%20Rules%202014.pdf)
