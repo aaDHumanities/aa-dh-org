@@ -9,14 +9,14 @@ The Executive Committee is elected by a vote of aaDH members.
 
 ## Current Executive Committee
 
-- Dr Tyne Daile Sumner, Australian National University (President, 2024-26)
-- Associate Professor Tully Barnett, Flinders University (Vice-President, 2022-25)
-- Dr Craig Bellamy, Independent Scholar (Secretary, 2024-26)
+- Dr Tyne Daile Sumner, Australian National University (President, 2027-2029)
+- Dr Michael Falk, University of Melbourne (Vice-President, 2026-2028)
+- Dr Craig Bellamy, Independent Scholar (Secretary & Treasurer (Acting), 2024-26)
+- Dr Alex Shermon, University of Melbourne (Communications Manager, 2026-2028)
 - Professor Paul Arthur, Edith Cowan University (2024-26)
-- Alexander Ritchie, University of Otago (2022-25)
-- Professor Shawn Ross, Macquarie University (2021-24)
-- Dr Michael Falk, University of Melbourne (2024-2025)
-- Dr Alex Shermon, University of Melbroune (2025-2026)
+- Associate Professor Tully Barnett, The University of Adelaide (2025-2027)
+- Dr Leah Henrickson, University of Queensland (2026-2028)
+- Professor Maggie Nolan, University of Queensland (2026-2028)
 
 ## Previous Committee members
 
@@ -40,7 +40,9 @@ The Executive Committee is elected by a vote of aaDH members.
 - Associate Professor Gavan McCarthy, University of Melbourne (2011-14)*
 - Professor Paul Millar, University of Canterbury, New Zealand (President, 2018-22)
 - Dr Simon Musgrave, Monash University (Secretary, 2015-18; 2019-23)
+- Alexander Ritchie, University of Otago (2022-26)
 - Dr Glenn Roe, Australian National University (2014-17)
+- Professor Shawn Ross, Macquarie University & ARDC (2021-26)
 - Dr Sydney Shep, Victoria University Wellington, New Zealand (2011-15, 2016-20)*
 - Dr Tim Sherratt, University of Canberra / National Library of Australia (2011-15)*
 - Dr James Smithies, University of Canterbury, New Zealand (2013-16)
