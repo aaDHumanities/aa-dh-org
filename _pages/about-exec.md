@@ -16,7 +16,7 @@ The Executive Committee is elected by a vote of aaDH members.
 - Professor Paul Arthur, Edith Cowan University (2024-26)
 - Associate Professor Tully Barnett, The University of Adelaide (2025-2027)
 - Dr Leah Henrickson, University of Queensland (2026-2028)
-- Professor Maggie Nolan, University of Queensland (2026-2028)
+- Associate Professor Maggie Nolan, University of Queensland (2026-2028)
 
 ## Previous Committee members
 
