@@ -8,7 +8,7 @@ author_profile: true
 
 [Membership](https://academic.oup.com/dsh/subscribe) Of the Australasian Association for Digital Humanities is by calendar year.
 
-**2027 Membership:** Oxford University Press no long manages the membership lists of the Alliance of Digital Humanities Organisations. aaDH has implemented a temporary membership solution for 2027, while we develop a new membership portal. For 2027, we are accepting membership payments via bank transfer.
+**2027 Membership:** Oxford University Press no longer manages the membership lists of the Alliance of Digital Humanities Organizations. aaDH has implemented a temporary membership solution for 2027, while we develop a new membership portal. For 2027, we are accepting membership payments via bank transfer.
 
 ## Membership Fee
 
