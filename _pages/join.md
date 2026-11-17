@@ -8,22 +8,42 @@ author_profile: true
 
 [Membership](https://academic.oup.com/dsh/subscribe) Of the Australasian Association for Digital Humanities is by calendar year.
 
-Membership is administered by Oxford University Press.
+**2027 Membership:** Oxford University Press no long manages the membership lists of the Alliance of Digital Humanities Organisations. aaDH has implemented a temporary membership solution for 2027, while we develop a new membership portal. For 2027, we are accepting membership payments via bank transfer.
 
-Members may choose the 'membership only' option (AUD$50 approx) or elect to also subscribe to the journal [Digital Scholarship in the Humanities](https://academic.oup.com/dsh), which is published on behalf of the [Alliance of Digital Humanities Organizations](http://adho.org/) (ADHO).
+## Membership Fee
 
-<!---
-![Digital Scholarship in the Humanities journal](/assets/images/m_digitalsh_32_1cover.webp)
--->
+**AUD $50** (including GST) per calendar year.
 
-<img style="float: left; padding: 0px 30px 0px 0px;" src="/assets/images/m_digitalsh_32_1cover.webp" alt="Digital Scholarship in the Humanities journal">
+## Membership Benefits
 
-Note that subscriptions are denominated in British pounds, Euros, or US dollars.
+Membership of the association confers:
 
-Once you become a member you will be emailed an OUP 'customer' number, which doubles as your aaDH 'subscriber' number. This number must be quoted to receive membership discounts including discounted registration rates at international DH and aaDH conferences.
+1. The right to vote at the Annual General Meeting, including in elections
+2. The right to nominate for offices of the Association
+3. The right to attend the biennial [conference](conferences.md)
 
-Note that subscribers are asked to select which ADHO association they wish to join. Scroll down the page and select the option to join the Australasian Association for Digital Humanities.
+## How to Join
 
-Your subscription is invaluable to the association.
+### Step 1: Deposit your membership fee
 
-[Read about the aaDH](/about/) to learn more about subscriber benefits and how you will be helping to foster our growing research community.
+Please send $50 via bank transfer to the following account.
+
+- Please include "Join aaDH" and your full name in the **reference**, e.g. "Join aaDH Pranav Gupta".
+- Please include your full details in the **message, note or remittance details** field, if available, e.g. "Pranav Gupta, pranav.gupta@university.edu.au, 12 Example St, Examplton VIC 3777."
+- Paying from overseas? Please pay in AUD and cover the transfer costs, so that association receives the full $50 fee.
+
+|Account Name| AADH Inc |
+|---|---|
+|Bank|Australia and New Zealand Banking Group Limited|
+|BSB|013-259|
+|Account number|2058-49286|
+|SWIFT/BIC|ANZBAU3MXXX (for international)|
+
+## Step 2: Notify the Secretary
+
+When you are done, send an email to the [aaDH Secretary](mailto:alex.shermon@unimelb.edu.au?subject=Join%20aaDH) to notify us of the payment.
+
+## Step 3: Await your Invoice
+
+When the payment is verified, the Secretary will issue you an invoice.
+

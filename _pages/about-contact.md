@@ -10,7 +10,7 @@ The Australasian Association for Digital Humanities Incorporated
 
 **Organisation number:** A0057485X
 
-**email:** [aaDH Secretariat](mailto:tyne.sumner@anu.edu.au?subject=aaDH%20Secretariat)
+**email:** [aaDH Secretariat](mailto:alex.shermon@unimelb.edu.au?subject=aaDH%20Secretariat)
 
 **X:** [@aaDHumanties](https://x.com/aaDHumanities)
 
