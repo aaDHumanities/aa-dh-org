@@ -6,11 +6,11 @@ author_profile: true
 
 ---
 
-[Membership](https://academic.oup.com/dsh/subscribe) Of the Australasian Association for Digital Humanities is by calendar year.
+Membership Of the Australasian Association for Digital Humanities is by calendar year.
 
-**2027 Membership:** Oxford University Press no longer manages the membership lists of the Alliance of Digital Humanities Organizations. aaDH has implemented a temporary membership solution for 2027, while we develop a new membership portal. For 2027, we are accepting membership payments via bank transfer.
+**2027 Membership:** Oxford University Press no longer manages membership for the Alliance of Digital Humanities Organizations, our umbrella organisation. We are arranging a new membership platform, and will update this page when the new process is live. Thank you for your patience.
 
-## Membership Fee
+<!-- ## Membership Fee
 
 **AUD $50** (including GST) per calendar year.
 
@@ -45,5 +45,5 @@ When you are done, send an email to the [aaDH Secretary](mailto:alex.shermon@uni
 
 ## Step 3: Await your Invoice
 
-When the payment is verified, the Secretary will issue you an invoice.
+When the payment is verified, the Secretary will issue you an invoice. -->
 
