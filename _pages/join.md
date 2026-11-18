@@ -32,8 +32,9 @@ Please send $50 via bank transfer to the following account.
 - Please include your full details in the **message, note or remittance details** field, if available, e.g. "Pranav Gupta, pranav.gupta@university.edu.au, 12 Example St, Examplton VIC 3777."
 - Paying from overseas? Please pay in AUD and cover the transfer costs, so that association receives the full $50 fee.
 
-|Account Name| AADH Inc |
+|Field|Value|
 |---|---|
+|Account Name| AADH Inc |
 |Bank|Australia and New Zealand Banking Group Limited|
 |BSB|013-259|
 |Account number|2058-49286|
